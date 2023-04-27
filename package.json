@@ -1,0 +1,7 @@
+{
+  "name": "sip-tls-options",
+  "version": "0.1.0",
+  "dependencies": {
+    "sip": "0.0.5"
+  }
+}
