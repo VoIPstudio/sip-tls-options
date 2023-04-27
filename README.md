@@ -19,5 +19,5 @@ node options.js SIP_URI [verbose]
 # Example
 
 ```
-node options.js 'sip:hello@sip.ashburn.twilio.com;transport=tls' verbose
+node options.js "sip:hello@sip.ashburn.twilio.com;transport=tls" verbose
 ```
